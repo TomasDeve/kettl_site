@@ -11044,3 +11044,10 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+
+.logo {
+  height: 50px; /* Ajuste o tamanho da logo */
+  margin-right: 10px; /* Espaçamento entre a logo e o texto */
+  vertical-align: middle; /* Alinha verticalmente com o texto */
+}
